@@ -1,0 +1,3 @@
+# Fantastika
+Neste projeto, pratiquei o uso do Flexbox, uma tecnologia CSS para criar layouts flexíveis e responsivos. O site fictício "Fantastika" é uma clínica veterinária e mostra como o Flexbox pode criar um design atraente em diferentes dispositivos. Utilizei classes para aplicar estilos específicos e organizei os elementos do cabeçalho, conteúdo e rodapé com Flexbox. Também criei uma adaptação para dispositivos móveis usando @media query. O projeto pode servir como referência para layouts flexíveis em futuros desenvolvimentos web
+![Captura da Web_27-7-2023_141349_](https://github.com/rafaelbenitezduartesharp/Fantastika/assets/109101648/5cb6f42b-bcc5-4abb-b3f1-dc19e8023fa4)
